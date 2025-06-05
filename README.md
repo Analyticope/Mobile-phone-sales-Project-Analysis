@@ -10,7 +10,9 @@
  - [Conclusion](conclusions)
 
 
-![SCREENSHOT1](https://github.com/user-attachments/assets/f1789af1-6760-4a68-ac36-eb81218a1cc0)
+![Dashbaord1](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%201.jpg)
+
+![Dashbaord1](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%201.jpg)
    
    
 ### Project Overview
