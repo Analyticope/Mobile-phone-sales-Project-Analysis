@@ -12,7 +12,8 @@
 
 ![Dashbaord1](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%201.jpg)
 
-![Dashbaord1](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%201.jpg)
+![Dashbaord1](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%202.jpg)
+
    
    
 ### Project Overview
