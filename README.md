@@ -16,27 +16,21 @@
 
 ![Dashbaord3](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%203.jpg)
 
-![Dashbaord3](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%203.jpg)
+![Dashbaord3](https://github.com/Analyticope/Mobile-phone-sales-Project-Analysis/blob/main/Mobile%20phone%20Dashboard%204.jpg)
+
+ 
 
 
 
-
-
-   
    
 ### Project Overview
 ---
 This analysis explores mobile phone sales in 2024 across different regions. It highlights the best-selling models, common price ranges, and customer preferences. It also looks at buyer behavior based on age, gender, and purchase channels, whether online, in-store, or through partners. By combining sales data with location and demographic insights, the report helps identify trends and improve sales strategies for each region.
 
-![SCREENSHOT1](https://github.com/user-attachments/assets/f1789af1-6760-4a68-ac36-eb81218a1cc0)
-
-![Screenshot 2](https://github.com/user-attachments/assets/bd66b9a8-e43b-4bc9-9ce3-0d5ce214afdd)
-
 
 ### Data Sources and Column Description
  The data used in this project comes from an Excel file. It includes details like phone model, brand, operating system, storage size, color, country, city, price, total 
  revenue, sales channel, as well as customer info like gender, age, and age group.
-
 
 
 ### Tools
